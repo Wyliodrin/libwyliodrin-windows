@@ -1,0 +1,7 @@
+{
+  "name": "libwyliodrin-windows",
+  "version": "0.1.0",
+  "dependencies": {
+    "lodash": "^4.11.1"
+  }
+}
